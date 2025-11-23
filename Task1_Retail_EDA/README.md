@@ -1,5 +1,3 @@
-:
-
 📘 Task 1 – Exploratory Data Analysis (Retail Sales Dataset)
 
 Domain: Data Analytics
